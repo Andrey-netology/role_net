@@ -1,0 +1,6 @@
+---
+  - src: git@github.com:Andrey-netology/filebeat-role.git
+    src: git@github.com:Andrey-netology/kibana-role.git
+    scm: git
+    version: "main"
+    name: filebeat_kibana
